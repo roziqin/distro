@@ -1,0 +1,15 @@
+.attention {
+	color: #dd4b39;
+}
+.content-wrapper.transaksi {
+	margin-left: 0px;
+}
+.clear {
+	clear: both;
+}
+
+.nav-tabs.sub-tabs>li.active>a, .nav-tabs.sub-tabs>li.active>a:focus, .nav-tabs.sub-tabs>li.active>a:hover {
+	border: 0px;
+	border-radius: 0px;
+	background-color: #cccccc;
+}
